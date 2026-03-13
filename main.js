@@ -265,5 +265,5 @@ module.exports = {
     countBonusPerMonth,
     getTotalActiveHoursPerMonth,
     getRequiredHoursPerMonth,
-    getNetPay
+    getNetPay 
 };
